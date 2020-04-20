@@ -1,1 +1,19 @@
-# goStack-2020-reactNative-challenge-01
+> React Native Concepts
+
+## Install dependencies
+
+```sh
+yarn
+```
+
+## Run Project dev env
+
+```sh
+yarn start
+```
+
+## Run tests
+
+```sh
+yarn test
+```
